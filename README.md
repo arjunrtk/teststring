@@ -1,2 +1,2 @@
 # teststring
-string testing module
+String testing module
