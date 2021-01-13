@@ -1,4 +1,15 @@
 {
   "name": "@artk/test",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "GNU GPLv3",
+  "repository": "arjunrtk/teststring",
+  "main": "index.js",
+  "keywords": [
+    "string",
+    "npm",
+    "test",
+    "package",
+    "artk"
+  ]
 }
